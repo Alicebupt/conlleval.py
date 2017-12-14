@@ -1,4 +1,5 @@
 # conlleval.py
+python版计算f1分值代码
 
 Python version of the evaluation script from CoNLL'00-
 
